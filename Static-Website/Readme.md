@@ -11,8 +11,12 @@ About Project -The project involves deploying a static website using Amazon S3, 
 Project Goals - 
 
 Create an S3 bucket to store your website files.
+
 Configure the S3 bucket to host a static website.
+
 Upload your website files to the S3 bucket.
+
 Set the appropriate permissions to make the website publicly accessible.
+
 Enable static website hosting and test the deployment.
 
